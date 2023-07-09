@@ -1,0 +1,2 @@
+# PaginationJS
+Paginação com javascript
